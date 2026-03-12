@@ -3,7 +3,7 @@
 
 Production-style deployment of an ML model (Random Forest) that predicts whether an insurance premium category will be **High**, **Medium**, or **Low** based on user inputs. Built with **FastAPI**, containerized with **Docker**, and deployed on **AWS EC2**.
 
-> **Note:** Endpoint currently runs over **HTTP** (AWS Free Tier). Some corporate networks may block non‑HTTPS endpoints; a short demo video is provided.
+> **Note:** Endpoint currently runs over **HTTP** (AWS Free Tier). Some corporate networks may block non‑HTTPS endpoints.
 
 ---
 
